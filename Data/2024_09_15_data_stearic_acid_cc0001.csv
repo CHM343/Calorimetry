@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #0001
+Sample Name,Stearic Acid
+Formula,C18H36O2
+Molecular Weight (g/mol),284.473
+Sample Weight (g),1.9000
+Water Temp (deg C),21.00
+Room Temp (deg C),24.22
+Water Volume (L),2.0
+Wire Before (g),0.027
+Wire After (g),0.018
+=====,=====
+Time (s), Temperature (C)
+0.00,21.00
+60.00,21.00
+120.00,21.01
+180.00,21.01
+240.00,21.01
+300.00,21.02
+315.00,21.06
+330.00,21.67
+345.00,22.59
+360.00,23.55
+375.00,24.42
+390.00,25.15
+405.00,25.75
+420.00,26.23
+435.00,26.61
+450.00,26.90
+465.00,27.12
+480.00,27.29
+540.00,27.64
+600.00,27.75
+660.00,27.74
+720.00,27.74
+780.00,27.73
+840.00,27.73
+900.00,27.72
+960.00,27.72
+1020.00,27.71
+1080.00,27.71

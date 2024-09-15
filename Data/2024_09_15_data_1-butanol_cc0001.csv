@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #0001
+Sample Name,1-Butanol
+Formula,C4H9OH
+Molecular Weight (g/mol),74.122
+Sample Weight (g),1.9000
+Water Temp (deg C),21.00
+Room Temp (deg C),23.54
+Water Volume (L),2.0
+Wire Before (g),0.026
+Wire After (g),0.017
+=====,=====
+Time (s), Temperature (C)
+0.00,21.00
+60.00,21.00
+120.00,21.01
+180.00,21.01
+240.00,21.01
+300.00,21.01
+315.00,21.05
+330.00,21.61
+345.00,22.45
+360.00,23.32
+375.00,24.11
+390.00,24.78
+405.00,25.33
+420.00,25.76
+435.00,26.11
+450.00,26.37
+465.00,26.57
+480.00,26.73
+540.00,27.05
+600.00,27.15
+660.00,27.14
+720.00,27.13
+780.00,27.13
+840.00,27.12
+900.00,27.12
+960.00,27.11
+1020.00,27.11
+1080.00,27.10

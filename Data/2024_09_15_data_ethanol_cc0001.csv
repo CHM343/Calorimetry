@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #0001
+Sample Name,Ethanol
+Formula,C2H6O
+Molecular Weight (g/mol),46.069
+Sample Weight (g),1.9000
+Water Temp (deg C),21.00
+Room Temp (deg C),23.73
+Water Volume (L),2.0
+Wire Before (g),0.030
+Wire After (g),0.021
+=====,=====
+Time (s), Temperature (C)
+0.00,21.00
+60.00,21.00
+120.00,21.01
+180.00,21.01
+240.00,21.01
+300.00,21.01
+315.00,21.05
+330.00,21.50
+345.00,22.19
+360.00,22.91
+375.00,23.57
+390.00,24.12
+405.00,24.57
+420.00,24.93
+435.00,25.21
+450.00,25.43
+465.00,25.59
+480.00,25.72
+540.00,25.99
+600.00,26.07
+660.00,26.06
+720.00,26.06
+780.00,26.06
+840.00,26.05
+900.00,26.05
+960.00,26.05
+1020.00,26.04
+1080.00,26.04

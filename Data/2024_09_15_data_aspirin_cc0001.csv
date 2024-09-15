@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #0001
+Sample Name,Aspirin
+Formula,C9H8O4
+Molecular Weight (g/mol),180.157
+Sample Weight (g),1.9000
+Water Temp (deg C),21.00
+Room Temp (deg C),23.98
+Water Volume (L),2.0
+Wire Before (g),0.022
+Wire After (g),0.017
+=====,=====
+Time (s), Temperature (C)
+0.00,21.00
+60.00,21.00
+120.00,21.01
+180.00,21.01
+240.00,21.02
+300.00,21.02
+315.00,21.04
+330.00,21.38
+345.00,21.89
+360.00,22.41
+375.00,22.89
+390.00,23.30
+405.00,23.63
+420.00,23.89
+435.00,24.10
+450.00,24.26
+465.00,24.38
+480.00,24.48
+540.00,24.67
+600.00,24.74
+660.00,24.73
+720.00,24.73
+780.00,24.73
+840.00,24.73
+900.00,24.73
+960.00,24.72
+1020.00,24.72
+1080.00,24.72

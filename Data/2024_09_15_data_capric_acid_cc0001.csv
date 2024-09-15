@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #0001
+Sample Name,Capric Acid
+Formula,C10H20O2
+Molecular Weight (g/mol),172.257
+Sample Weight (g),1.9000
+Water Temp (deg C),21.00
+Room Temp (deg C),22.34
+Water Volume (L),2.0
+Wire Before (g),0.026
+Wire After (g),0.019
+=====,=====
+Time (s), Temperature (C)
+0.00,21.00
+60.00,21.00
+120.00,21.00
+180.00,21.00
+240.00,21.01
+300.00,21.01
+315.00,21.04
+330.00,21.58
+345.00,22.40
+360.00,23.25
+375.00,24.03
+390.00,24.68
+405.00,25.22
+420.00,25.64
+435.00,25.98
+450.00,26.24
+465.00,26.43
+480.00,26.58
+540.00,26.89
+600.00,26.99
+660.00,26.98
+720.00,26.97
+780.00,26.97
+840.00,26.96
+900.00,26.95
+960.00,26.95
+1020.00,26.94
+1080.00,26.93

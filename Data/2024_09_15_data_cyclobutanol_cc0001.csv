@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #0001
+Sample Name,Cyclobutanol
+Formula,C4H7OH
+Molecular Weight (g/mol),56.107
+Sample Weight (g),1.9000
+Water Temp (deg C),21.00
+Room Temp (deg C),23.94
+Water Volume (L),2.0
+Wire Before (g),0.022
+Wire After (g),0.012
+=====,=====
+Time (s), Temperature (C)
+0.00,21.00
+60.00,21.00
+120.00,21.01
+180.00,21.01
+240.00,21.02
+300.00,21.02
+315.00,21.07
+330.00,21.75
+345.00,22.80
+360.00,23.89
+375.00,24.87
+390.00,25.71
+405.00,26.40
+420.00,26.94
+435.00,27.37
+450.00,27.70
+465.00,27.95
+480.00,28.14
+540.00,28.54
+600.00,28.66
+660.00,28.65
+720.00,28.64
+780.00,28.64
+840.00,28.63
+900.00,28.62
+960.00,28.62
+1020.00,28.61
+1080.00,28.60

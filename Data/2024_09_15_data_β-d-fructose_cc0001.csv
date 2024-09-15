@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #0001
+Sample Name,β-D-Fructose
+Formula,C6H12O6
+Molecular Weight (g/mol),180.126
+Sample Weight (g),1.9000
+Water Temp (deg C),21.00
+Room Temp (deg C),24.60
+Water Volume (L),2.0
+Wire Before (g),0.021
+Wire After (g),0.013
+=====,=====
+Time (s), Temperature (C)
+0.00,21.00
+60.00,21.00
+120.00,21.01
+180.00,21.01
+240.00,21.02
+300.00,21.02
+315.00,21.04
+330.00,21.28
+345.00,21.65
+360.00,22.02
+375.00,22.37
+390.00,22.66
+405.00,22.90
+420.00,23.09
+435.00,23.24
+450.00,23.35
+465.00,23.44
+480.00,23.51
+540.00,23.65
+600.00,23.70
+660.00,23.69
+720.00,23.70
+780.00,23.70
+840.00,23.70
+900.00,23.70
+960.00,23.70
+1020.00,23.70
+1080.00,23.70

@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #0001
+Sample Name,α-D-Galactose
+Formula,C6H12O6
+Molecular Weight (g/mol),180.126
+Sample Weight (g),1.9000
+Water Temp (deg C),21.00
+Room Temp (deg C),22.71
+Water Volume (L),2.0
+Wire Before (g),0.022
+Wire After (g),0.013
+=====,=====
+Time (s), Temperature (C)
+0.00,21.00
+60.00,21.00
+120.00,21.00
+180.00,21.01
+240.00,21.01
+300.00,21.01
+315.00,21.03
+330.00,21.27
+345.00,21.63
+360.00,22.01
+375.00,22.35
+390.00,22.64
+405.00,22.88
+420.00,23.07
+435.00,23.21
+450.00,23.33
+465.00,23.42
+480.00,23.49
+540.00,23.63
+600.00,23.67
+660.00,23.66
+720.00,23.66
+780.00,23.66
+840.00,23.66
+900.00,23.66
+960.00,23.66
+1020.00,23.65
+1080.00,23.66

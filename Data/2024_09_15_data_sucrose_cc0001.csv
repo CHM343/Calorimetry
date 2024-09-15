@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #0001
+Sample Name,Sucrose
+Formula,C12H22O11
+Molecular Weight (g/mol),342.241
+Sample Weight (g),1.9000
+Water Temp (deg C),21.00
+Room Temp (deg C),22.35
+Water Volume (L),2.0
+Wire Before (g),0.020
+Wire After (g),0.011
+=====,=====
+Time (s), Temperature (C)
+0.00,21.00
+60.00,21.00
+120.00,21.00
+180.00,21.00
+240.00,21.01
+300.00,21.01
+315.00,21.02
+330.00,21.28
+345.00,21.66
+360.00,22.06
+375.00,22.42
+390.00,22.73
+405.00,22.98
+420.00,23.18
+435.00,23.33
+450.00,23.46
+465.00,23.55
+480.00,23.62
+540.00,23.77
+600.00,23.81
+660.00,23.81
+720.00,23.81
+780.00,23.80
+840.00,23.80
+900.00,23.80
+960.00,23.80
+1020.00,23.80
+1080.00,23.80
