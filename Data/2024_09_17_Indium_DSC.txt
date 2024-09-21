@@ -7,8 +7,8 @@ proceduresegments	Equilibrate 30.00 °C; Ramp 10.00 °C/min to 210.00 °C; Isoth
 [File Parameters]
 Run date	9/18/2024 12:44:11 AM
 Trios version	5.1.1.46572
-Original File Name	
-Current File Name	C:\ProgramData\TA Instruments\TRIOS\Data\2024_09_17_Indium_DSC.tri
+Original File Name	C:\ProgramData\TA Instruments\TRIOS\Data\2024_09_17_Indium_DSC.tri
+Current File Name	D:\DSC2500\CHM343\2024_09_17_Indium_DSC.tri
 [Procedure]
 Procedure Name	CHM343_Fall2024_Indium
 Sample Name	2024_09_17_Indium_DSC
