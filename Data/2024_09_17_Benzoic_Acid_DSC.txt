@@ -7,8 +7,8 @@ proceduresegments	Equilibrate 50.00 °C; Ramp 10.00 °C/min to 150.00 °C; Isoth
 [File Parameters]
 Run date	9/17/2024 9:59:26 PM
 Trios version	5.1.1.46572
-Original File Name	
-Current File Name	C:\ProgramData\TA Instruments\TRIOS\Data\2024_09_17_Benzoic_Acid_DSC.tri
+Original File Name	C:\ProgramData\TA Instruments\TRIOS\Data\2024_09_17_Benzoic_Acid_DSC.tri
+Current File Name	D:\DSC2500\CHM343\2024_09_17_Benzoic_Acid_DSC.tri
 [Procedure]
 Procedure Name	CHM343_Fall2024_Benzoic Acid
 Sample Name	2024_09_17_Benzoic_Acid_DSC
